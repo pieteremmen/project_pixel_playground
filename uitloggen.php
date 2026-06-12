@@ -18,6 +18,6 @@ session_destroy();
 header("Location: login.php");
 exit;
 ?>
-    
+    <?php include 'footer.php'; ?>
 </body>
 </html>

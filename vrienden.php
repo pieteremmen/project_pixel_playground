@@ -629,6 +629,6 @@ zoekInput.addEventListener("keyup", function () {
     }, 200);
 });
 </script>
-
+<?php include 'footer.php'; ?>
 </body>
 </html>

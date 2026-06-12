@@ -8,6 +8,8 @@
     <meta name="Pieter" content="Pieter heeft wordle en vier op een rij gemaakt">
     <title>Games</title>
     <link rel="stylesheet" href="style.css">
+    <script src="tictactoe.js"></script>
+    <script src="galgje.js"></script>
 </head>
 <body>
 
@@ -93,11 +95,7 @@ session_start();
 
         </div>
     </section>
-
+<?php include 'footer.php'; ?>
 </main>
-
-<script src="tictactoe.js"></script>
-<script src="galgje.js"></script>
-
 </body>
 </html>

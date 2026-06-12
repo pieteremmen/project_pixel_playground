@@ -100,6 +100,6 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <a href="registreren.php">Nog geen account? Registreren</a>
 
 </section>
-
+<?php include 'footer.php'; ?>
 </body>
 </html>

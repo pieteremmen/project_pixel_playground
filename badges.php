@@ -86,6 +86,6 @@ $badges = $stmt->get_result();
     <p>Je hebt nog geen badges behaald.</p>
 
 <?php endif; ?>
-
+<?php include 'footer.php'; ?>
 </body>
 </html>

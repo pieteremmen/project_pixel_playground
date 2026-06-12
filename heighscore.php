@@ -215,6 +215,6 @@ if (isset($_SESSION["ingelogd"]) && $_SESSION["ingelogd"] === true) {
     <?php endforeach; ?>
 
 </div>
-
+<?php include 'footer.php'; ?>
 </body>
 </html>

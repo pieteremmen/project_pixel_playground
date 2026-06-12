@@ -73,6 +73,6 @@ session_start();
 </form>
 
 </section>
-
+<?php include 'footer.php'; ?>
 </body>
 </html>
